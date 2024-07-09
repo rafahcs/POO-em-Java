@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\rafae\OneDrive\Documentos\MATERIALDEESTUDOSDEBCC-RAFAEL\POO\Lista2\Exercicios\src\.metadata\.plugins\org.eclipse.jdt.core
+3413270776.index
+1865797976.index
+942148498.index

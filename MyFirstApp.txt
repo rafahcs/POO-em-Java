@@ -1,0 +1,17 @@
+  public class MyFirstApp {
+    public static void main(String[] args) {
+      System.out.println("Primeiro Programa"); //ou Syso("Primeiro Programa")
+      System.out.println("Oi, Rafael");
+      System.out.println("Rafael" + "Henrique");
+      System.out.println("Oi," + args[0] + args[1]); 
+      //args[0] = "tudo" args[1] = "bem?"
+      args[1] = 15;
+      args[0] = 12;
+      String x = args[0];
+      String y = args[1];
+      System.out.println(x + y); //console: "1512"
+      int k = Integer.parseInt(x);
+      int j = Integer.parseInt(y);
+      System.out.println(k + j);
+    }
+  }

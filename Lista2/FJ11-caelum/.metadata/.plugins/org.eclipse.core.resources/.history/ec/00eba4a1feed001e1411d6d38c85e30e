@@ -1,0 +1,11 @@
+
+public class Pessoa {
+	int idade;
+	String nome;
+	void fazAniversario() {
+		idade = 20;
+		nome = "Fulano";
+		idade++;
+		System.out.println(nome + " tem " + idade + " anos" );
+	}
+}

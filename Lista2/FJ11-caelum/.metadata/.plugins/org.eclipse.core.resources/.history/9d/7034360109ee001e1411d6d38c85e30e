@@ -1,0 +1,19 @@
+
+public class Main {
+	 
+	public static void main(String[] args) {
+		Porta k = new Porta();
+		k.abre();
+		System.out.println("A porta está aberta? " + k.estaAberta() );
+		k.fecha();
+		System.out.println("A porta está aberta? " + k.estaAberta() );
+		k.pinta( "Azul" );
+		k.pinta("Vermelho");
+		k.pinta("Amarelo");
+		k.dimensaoX = 80;
+		k.dimensaoY = 190;
+		k.dimensaoZ = 20;
+		
+	}
+
+}
